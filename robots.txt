@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www4.ourverse.tf/sitemap.xml
