@@ -1,7 +1,7 @@
 # OurWorld Website
 
 
-- deployed site on https://ourworld-tsc.github.io/www_ourverse gets updated on each development branch update
+- deployed site on https://ourworld-tsc.github.io/www_ourworld gets updated on each development branch update
 
 
 ## howto use
